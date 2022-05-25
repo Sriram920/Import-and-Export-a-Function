@@ -1,0 +1,1 @@
+let nameFunction = require("./exportFunction");
